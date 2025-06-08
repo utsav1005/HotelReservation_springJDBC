@@ -1,0 +1,14 @@
+com\hotel\servlet\ViewReservationServlet.class
+com\hotel\dao\UserDAO.class
+com\hotel\servlet\AddReservationServlet.class
+com\hotel\servlet\LoginServlet.class
+com\hotel\model\User.class
+com\hotel\servlet\UpdateReservationServlet.class
+com\myhotel\hotelreserspring\JakartaRestConfiguration.class
+com\myhotel\hotelreserspring\resources\JakartaEE10Resource.class
+com\hotel\servlet\DeleteReservationServlet.class
+com\hotel\dao\ReservationDAO.class
+com\hotel\dao\ReservationDAO$ReservationRowMapper.class
+com\hotel\servlet\LogoutServlet.class
+com\hotel\servlet\RegisterServlet.class
+com\hotel\model\Reservation.class
